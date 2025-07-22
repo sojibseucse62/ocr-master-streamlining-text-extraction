@@ -326,7 +326,7 @@ export default function OCRTool() {
             OCR Master: Streamlining Text Extraction
           </h1>
           <p className="text-muted-foreground text-lg animate-fade-in-delay">
-            Upload a PDF, JPG or PNG, zoom and select text regions to extract text using OCR
+            Upload a PDF,JPG or PNG, select text regions to extract text using OCR
           </p>
         </div>
 
